@@ -2,8 +2,6 @@ package Day01_OOPS;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class CircleArea {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
